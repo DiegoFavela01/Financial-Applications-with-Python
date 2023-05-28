@@ -52,4 +52,5 @@ File successfully saved
 Thank you for using the application.
 ```
 ## Files
-- The necessary file for this the found in /Data
+- The necessary csv file for this the found in /data named "daily_rate_sheet.csv"
+- The necessary program files are found in /qualifer
